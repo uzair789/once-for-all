@@ -12,6 +12,12 @@ __pycache__/
 # C extensions
 *.so
 
+
+.torch/
+exp/
+
+
+
 # Distribution / packaging
 .Python
 build/
